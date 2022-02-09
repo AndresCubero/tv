@@ -1,8 +1,5 @@
 #EXTM3U
 
 
-#EXTINF:-1 ,ESPN
-https://futbollatam.com/flbit.html?update&get=aHR0cHM6Ly9lZGdlLWxpdmUxMy1zbC5jdmF0dHYuY29tLmFyL2xpdmUvYzNlZHMvRVNQTjMvU0FfTGl2ZV9kYXNoX2VuY18yQS9FU1BOMy5tcGQ=
-
-#EXTINF:-1 ,ESPN prueba
+#EXTINF:-1 ,ESPN HD
 https://edge-live32-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8

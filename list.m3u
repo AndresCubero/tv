@@ -1,14 +1,27 @@
 #EXTM3U
 
-
-#EXTINF:-1 ,ESPN HD
-https://edge-live32-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
-
-#EXTINF:-1 ,ESPN2
-https://edge-live13-sl.cvattv.com.ar/live/c2live/ESPN_HD/SA_SAGEMCOM/ESPN_HD.m3u8
-
 #EXTINF:-1 ,TELETICA
 https://stream-01.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO51BcrkPeP2IogSOPdZDJLXI)/dm/3/x29e3wg/s/live-1.m3u8
 
 #EXTINF:-1 ,CANAL11
 https://d30zjikdv9ntds.cloudfront.net/repretel/canal11/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 ,ESPNHD0
+curl 'https://edge-live32-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8' \
+  -H 'Connection: keep-alive' \
+  -H 'sec-ch-ua: "Chromium";v="94", "Google Chrome";v="94", ";Not A Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'Accept: */*' \
+  -H 'Origin: https://revoluci0nrus4l3n4n.cc' \
+  -H 'Sec-Fetch-Site: cross-site' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Accept-Language: es-419,es;q=0.9' \
+  -H 'If-None-Match: "2242973364880555-gzip"' \
+  -H 'If-Modified-Since: Wed, 09 Feb 2022 00:49:11 GMT' \
+  --compressed
+  
+  #EXTINF:-1 ,ESPNHD
+  https://edge-live32-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8

@@ -1,22 +1,22 @@
 #EXTM3U
 
 #EXTINF:-1 ,TELETICA
-https://stream-01.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO51BcrkPeP2IogSOPdZDJLXI)/dm/3/x29e3wg/s/live-1.m3u8
+
 
 #EXTINF:-1 ,CANAL11
 https://d30zjikdv9ntds.cloudfront.net/repretel/canal11/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 ,ESPN (OPC 1)
-https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8?aaa
+https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 
 #EXTINF:-1 ,ESPN (OPC 2)
-https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8?aaa
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 
 #EXTINF:-1 ,ESPN2
-https://edge-live32-hr.cvattv.com.ar/live/c2live/ESPN_HD/SA_SAGEMCOM/ESPN_HD.m3u8
+
 
 #EXTINF:-1 ,ESPN3
-https://edge-live32-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
+
 
 #EXTINF:-1 ,TyCSPORTS
 https://edge-live14-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
@@ -25,13 +25,8 @@ https://edge-live14-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3
 https://edge-live15-hr.cvattv.com.ar//live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
 
 #EXTINF:-1 ,FOXSPORTS PREMIUM
-https://edge-live32-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD-video=1499968.m3u8
 
 #EXTINF:-1 ,DRAGON BALL
-https://video-edge-c823c6.mia05.abs.hls.ttvnw.net/v1/segment/CsgFjGqmkDnSszhv_OF4bwW9UnizSVhelNGP3Kpn1xhdRSYWdovBrdxeeRoBvxrjr0zWjh28BuTpbW5bMLNifn_MM1Cf2pDWLOF_w1-hx7N99BHmESvfVD7imqkQa_IChCs67pG5XNRSxbvuVqSfhomLkVtqIUC4XEd-CZ2M6bA4sxVMsNj5GhWB9-nYfOJFcc8Uco-x9vqHTm5TJGZjzN_GfoWWFKr_GF8c3OMXZiFfUz1KZJE6nH6o8_XKR4jWlq6MD20fP9SujTgwFwyWsB9rrE4xQyKjx4CbAOj-u8UbznBZogT--Gsaq6UT8EMx8zDyVWGucD3p-6UE9Iw34-DAjRvJvXlWn79QH7A4yhOU5MWxr0uJQDazf--EP5F_3W7Q3_uZeoTVAtpPmH5FftZUBrIWlI69JxVC8jKWtfHXmQaOHviSPmeA4UWv7H8hCFyQmcpQXmhblTYXOASiZBDmy8KqDedMucyi8CGfezmYI2FW95hl1XsrVIp0QW9_22aiZejRbbW4dDTrRpmBsKlMQ6QbDKI0V9VQl0X3U3FgOn2TH8XOWuaxPHMhXtZ_OhLVssxYeZ9hfMjSwiBz0puvs6zkRm4Gj0IGatgR7NAYThev2S4go_H6tYiqpRc-rWk7JNkHigEcSaXAEy1IKRTR-Dd4Eufw1sb3z5oj2mijy5azjABprhklI40IhWT-nMx_tmdI6hFTRyrh8Ay-LLuFOpY9pMgy54rfOaw_Q96C9X8U0ShsInazI7_ZSGPRm8Fpa2i6mKedRjRP5DgEnG15ESirV4_IM0XOc-Qsg5RHIZ1yThKIOEVV2_nSRLHn5m0pCiUbsn0g8yPRWYS8V-JMAOVT3sIQMPCXSt2YlJHuV7c5kl_ta0XTI61AcmBDGRAp4mM5WeIXkcbxtgdenNZHy-4K6KllWCnkC5MDlEZa_FPK8HaTieO9YhoMZtzhCILTnfVKgnQvIAEqCWV1LXdlc3QtMjCFAw.ts
 
 #EXTINF:-1 ,LOS SIMPSONS
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
-
-#EXTINF:-1 ,SOUTH PARK
-https://megatelevisionhd.com/redir.html?get=Ly9zZXJ2aWNlLXN0aXRjaGVyLmNsdXN0ZXJzLnBsdXRvLnR2L3N0aXRjaC9obHMvY2hhbm5lbC82MDlhZTVjZDQ4ZDMyMDAwMDdiMGE5OGUvbWFzdGVyLm0zdTg/YWR2ZXJ0aXNpbmdJZD0mYXBwTmFtZT13ZWImYXBwVmVyc2lvbj01LjE2LjAtZDQ3Nzg5NmI0MTNjZWNlNTY5Y2NhMDA4ZGRhZTk1MWQwMmNhZGM5ZSZhcHBfbmFtZT13ZWImY2xpZW50RGV2aWNlVHlwZT0wJmNsaWVudElEPTQ2YWM5OWUwLTcxNzAtNDIxZi1iNmY1LTRhNGVlMzdkNDhkZiZjbGllbnRNb2RlbE51bWJlcj1uYSZkZXZpY2VETlQ9ZmFsc2UmZGV2aWNlSWQ9NDZhYzk5ZTAtNzE3MC00MjFmLWI2ZjUtNGE0ZWUzN2Q0OGRmJmRldmljZUxhdD0tMzQuODE1MCZkZXZpY2VMb249LTU4LjQ2OTMmZGV2aWNlTWFrZT1BbmRyb2lkJTJCQnJvd3NlciZkZXZpY2VNb2RlbD13ZWImZGV2aWNlVHlwZT13ZWImZGV2aWNlVmVyc2lvbj00LjAmbWFya2V0aW5nUmVnaW9uPVZFJnNlcnZlclNpZGVBZHM9dHJ1ZSZzZXNzaW9uSUQ9ZmI1MDRhMzctYjIwNi0xMWViLTg4MWEtMDI0MmFjMTEwMDAyJnNpZD1mYjUwNGEzNy1iMjA2LTExZWItODgxYS0wMjQyYWMxMTAwMDImdXNlcklkPQ==

@@ -1,34 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 ,TELETICA
-
-
 #EXTINF:-1 ,CANAL11
 https://d30zjikdv9ntds.cloudfront.net/repretel/canal11/smil:live.smil/playlist.m3u8 
-
 #EXTINF:-1 ,ESPN (OPC 1)
 https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
-preferred_bitrate=5000000
-
 #EXTINF:-1 ,ESPN (OPC 2)
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
-preferred_bitrate=5000000
-
-#EXTINF:-1 ,ESPN2
-
-
-#EXTINF:-1 ,ESPN3
-
-
 #EXTINF:-1 ,TyCSPORTS
 https://edge-live14-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
-
 #EXTINF:-1 ,FOXSPORTS
 https://edge-live15-hr.cvattv.com.ar//live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
-
-#EXTINF:-1 ,FOXSPORTS PREMIUM
-
-#EXTINF:-1 ,DRAGON BALL
-
 #EXTINF:-1 ,LOS SIMPSONS
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8

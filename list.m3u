@@ -4,13 +4,13 @@
 
 
 #EXTINF:-1 ,CANAL11
-https://d30zjikdv9ntds.cloudfront.net/repretel/canal11/smil:live.smil/playlist.m3u8
+https://d30zjikdv9ntds.cloudfront.net/repretel/canal11/smil:live.smil/playlist.m3u8 
 
 #EXTINF:-1 ,ESPN (OPC 1)
-https://iptv-org.github.io/iptv/index.m3uhttps://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+https://iptv-org.github.io/iptv/index.m3uhttps://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8 preferred_bitrate=10000
 
 #EXTINF:-1 ,ESPN (OPC 2)
-https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8 preferred_bitrate=10000
 
 #EXTINF:-1 ,ESPN2
 
